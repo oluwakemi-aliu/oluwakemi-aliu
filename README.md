@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Turning+Data+into+Actionable+Insights;[Power+BI+Developer];[Your+Experience+or+Tagline]" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -18,7 +18,9 @@ I’m a data analyst with a strong passion for numbers, analysis, and problem-so
 
 I have built hands-on projects using SQL, Python, Excel, Power BI, and Tableau, covering data cleaning, analysis, and dashboard creation.My experience includes working with messy, multi-source datasets, web scraping, and customer-focused analysis.
 
-When I'm not working with data, I enjoy travelling the world through books and discovering new hobbies. I love the "aha!" moment when data reveals something new and useful. I am actively seeking internships, volunteer roles, and junior data analyst opportunities
+When I'm not working with data, I enjoy travelling the world through books and discovering new hobbies. I love the "aha!" moment when data reveals something new and useful. 
+
+I am actively seeking internships, volunteer roles, and junior data analyst opportunities
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://oluwakemi-aliu.github.io/)
@@ -30,8 +32,8 @@ When I'm not working with data, I enjoy travelling the world through books and d
 
 ## 🌱 Currently Learning 
 
-- [R Programming for statistical analysis and visualization.]
-- [Machine Learning Basics for predictive analytics.]
+- R Programming for statistical analysis and visualization.
+- Machine Learning Basics for predictive analytics.
 
 ## 🛠️ Technical Skillset
 
